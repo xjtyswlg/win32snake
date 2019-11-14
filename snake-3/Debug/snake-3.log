@@ -1,0 +1,4 @@
+﻿  snake-3.cpp
+c:\users\administrator\source\repos\snake-3\snake-3\snake-3.cpp(149): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\source\repos\snake-3\snake-3\snake-3.cpp(152): warning C4305: “+=”: 从“double”到“float”截断
+  snake-3.vcxproj -> C:\Users\Administrator\source\repos\snake-3\Debug\snake-3.exe
